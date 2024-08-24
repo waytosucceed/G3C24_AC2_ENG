@@ -1,0 +1,270 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "What does the prefix \"pre-\" mean?",
+        "options": [
+            "After",
+            "Before",
+            "Wrong"
+        ],
+        "correct": 1,
+        "explanation": "The prefix \"pre-\" means \"before.\" For example: Preheat, Preschool, etc."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "What does \"rewrite\" mean?",
+        "options": [
+            "Write again",
+            "Write before",
+            "Write less"
+        ],
+        "correct": 0,
+        "explanation": "\"Rewrite\" means to write something again."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "What does \"preheat\" mean?",
+        "options": [
+            "Heat before",
+            "Heat after",
+            "Heat less"
+        ],
+        "correct": 0,
+        "explanation": "\"Preheat\" means to heat something before cooking."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "What does the prefix \"re-\" mean?",
+        "options": [
+            "Wrong",
+            "Again",
+            "Before"
+        ],
+        "correct": 1,
+        "explanation": "The prefix \"re-\" means \"again.\" For example: Reorder, Rewash, etc."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which word means to look at something again?",
+        "options": [
+            "Reread",
+            "Preread",
+            "Misread"
+        ],
+        "correct": 0,
+        "explanation": "\"Reread\" means to read something again."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which word means to get ready before starting?",
+        "options": [
+            "Prewash",
+            "Postwash",
+            "Rewash"
+        ],
+        "correct": 0,
+        "explanation": "\"Prewash\" means to wash before the main wash."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "What does \"replay\" mean?",
+        "options": [
+            "Play less",
+            "Play before",
+            "Play again"
+        ],
+        "correct": 2,
+        "explanation": "\"Replay\" means to play something again."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "What does the prefix \"mis-\" mean?",
+        "options": [
+            "Wrong",
+            "Again",
+            "Before"
+        ],
+        "correct": 0,
+        "explanation": "The prefix \"mis-\" means \"wrong\" or \"badly.\" For example: Misunderstood, Mistake, etc."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "What does the suffix \"-ful\" mean?",
+        "options": [
+            "Without",
+            "Full of",
+            "In a certain way"
+        ],
+        "correct": 1,
+        "explanation": "The suffix \"-ful\" means \"full of.\" For example: Joyful, Playful, etc."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which word means to do something incorrectly?",
+        "options": [
+            "Miswrite",
+            "Rewrite",
+            "Preview"
+        ],
+        "correct": 0,
+        "explanation": "\"Miswrite\" means to write something wrongly."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which word means full of beauty?",
+        "options": [
+            "Beautiful",
+            "Beautiless",
+            "Beautify"
+        ],
+        "correct": 0,
+        "explanation": "\"Beautiful\" means full of beauty. “Beauty” + suffix (ful)."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "What does the suffix \"-less\" mean?",
+        "options": [
+            "Full of",
+            "Without",
+            "In a certain way"
+        ],
+        "correct": 1,
+        "explanation": "The suffix \"-less\" means \"without.\" For example: Fearless, Lifeless, etc."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Which word means full of joy?",
+        "options": [
+            "Joyful",
+            "Joyless",
+            "Joyly"
+        ],
+        "correct": 0,
+        "explanation": "\"Joyful\" means full of joy. Joy + suffix (ful) = Joyful."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "What does \"hopeless\" mean?",
+        "options": [
+            "Without hope",
+            "Full of hope",
+            "In a hopeful way"
+        ],
+        "correct": 0,
+        "explanation": "\"Hopeless\" means without hope. Hope + suffix (less) = Hopeless."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "If you act in a careful way, you act ______.",
+        "options": [
+            "Carefully",
+            "Careless"
+        ],
+        "correct": 0,
+        "explanation": "\"Carefully\" means acting with attention or care."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "What does \"helpful\" mean?",
+        "options": [
+            "Without help",
+            "Full of help",
+            "In a helpful way"
+        ],
+        "correct": 1,
+        "explanation": "\"Helpful\" means full of help. Help + suffix (ful) = Helpful."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "What does the suffix \"-ly\" mean?",
+        "options": [
+            "Without",
+            "Full of",
+            "In a certain way"
+        ],
+        "correct": 2,
+        "explanation": "The suffix \"-ly\" means \"in a certain way.\" For example: Quickly, Softly, etc."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "If you are without hope, you feel ______.",
+        "options": [
+            "Hopeful",
+            "Hopeless"
+        ],
+        "correct": 1,
+        "explanation": "\"Hopeless\" means without hope. Suffix \"less\" means without."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which word means without sleep?",
+        "options": [
+            "Sleepless",
+            "Sleepful",
+            "Sleeply"
+        ],
+        "correct": 0,
+        "explanation": "\"Sleepless\" means without sleep. Sleep + suffix (less) = Sleepless."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which word means done in a happy way?",
+        "options": [
+            "Happily",
+            "Rehappy",
+            "Happiness"
+        ],
+        "correct": 0,
+        "explanation": "\"Happily\" means doing something in a happy way."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "The word \"misplace\" means to put something in the right place.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "\"Misplace\" means to put something in the wrong place."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "The suffix \"-ly\" means \"without.\"",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "The suffix \"-ly\" means \"in a certain way.\" Adding the suffix \"ly\" usually makes an adverb."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "\"Achievement\" is the result of doing something.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "\"Achievement\" is the result of an action. Suffix \"ment\" with words often turns into a noun that shows the result of something or a state of being."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "\"Preheat\" means to heat before cooking.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "\"Preheat\" means to heat before you start cooking. The prefix \"pre\" means before."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "The prefix \"mis-\" means \"wrong.\"",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "\"Mis-\" means \"wrong\" or \"badly.\" Example: Misunderstood."
+    }
+]
